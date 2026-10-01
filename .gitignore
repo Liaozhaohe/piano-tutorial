@@ -1,0 +1,7 @@
+# Claude Code session data
+.claude/
+
+# Client-provided course-structure screenshots (third-party material; not published)
+tutorial/refs/
+
+__pycache__/
